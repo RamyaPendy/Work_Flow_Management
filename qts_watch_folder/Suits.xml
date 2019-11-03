@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<program>
+    <name>Suits</name>
+    <start_time>20:00</start_time>
+    <end_time>21:00</end_time>
+    <duration>30 minutes</duration>
+    <service_name>MNet</service_name>
+    <service_id>100</service_id>
+</program>
